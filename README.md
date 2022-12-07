@@ -6,3 +6,4 @@ We hope to make this the #1 game in the world
 
 
 ## I will be in charge the games moving mechanics 
+## I will also add some other cool stuff
